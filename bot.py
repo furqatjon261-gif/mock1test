@@ -3,7 +3,7 @@ from telebot import types
 import os
 import time
 
-BOT_TOKEN = os.getenv("8243248362:AAE6ViRf33hl3EwlUmCT7dZzPKmlreIvXC4")
+BOT_TOKEN = os.getenv("8435110689:AAFnCH_-9Px7Dw_FucKrfyBVGVvQb96v11E")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "171062109"))  # o‘zingizning Telegram ID
 
 bot = telebot.TeleBot(BOT_TOKEN)
